@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Approach to the Problem}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Assumptions}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Existing Models}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Independent Cascade Model}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Poisson Processes}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Monte-Carlo Method}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Historical Background}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Newspapers and Telegrams}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Radios}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Television}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Early Internet}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.5}{Smartphones}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Description of Model}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Parameters}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Graph Explanation}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Formula}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Modeling Information Networks}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{Model Results}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.2}{Applying Our Model to 2050}{section.5}% 20
+\BOOKMARK [1][-]{section.6}{Analysis of Model}{}% 21
+\BOOKMARK [2][-]{subsection.6.1}{Defining "News"}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.2}{Validation of the Model}{section.6}% 23
+\BOOKMARK [1][-]{section.7}{Information Influence}{}% 24
+\BOOKMARK [2][-]{subsection.7.1}{Theories and Concepts of Information Influence}{section.7}% 25
+\BOOKMARK [2][-]{subsection.7.2}{Utilizing Information Influence}{section.7}% 26
+\BOOKMARK [1][-]{section.8}{Strengths and Weaknesses of Our Model}{}% 27
+\BOOKMARK [2][-]{subsection.8.1}{Strengths}{section.8}% 28
+\BOOKMARK [2][-]{subsection.8.2}{Weaknesses}{section.8}% 29
+\BOOKMARK [1][-]{section.9}{Future Improvements and Conclusions}{}% 30
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 31
+\BOOKMARK [2][-]{subsection.A.1}{Selection of km Parameters}{appendix.A}% 32
+\BOOKMARK [2][-]{subsection.A.2}{Selection of t Values}{appendix.A}% 33
+\BOOKMARK [1][-]{appendix.B}{References}{}% 34
